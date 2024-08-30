@@ -1,3 +1,19 @@
-.body{
+body{
 	display: flex;
+	background-color: lightgray;
+	margin: 20px;
+}
+
+#left, #right{
+	background-color:white;
+	width: 50%;
+}
+
+.profile{
+	display:flex;
+}
+
+.desp{
+	display:flex;
+	width:10%;
 }
